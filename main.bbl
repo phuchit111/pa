@@ -1,0 +1,13 @@
+\begin{thebibliography}{1}
+
+\bibitem{fielding2000}
+R.~T. Fielding, {\em Architectural Styles and the Design of Network-based
+  Software Architectures}.
+\newblock PhD thesis, University of California, Irvine, 2000.
+
+\bibitem{cocalc2024}
+{SageMath, Inc.}, ``Cocalc: Collaborative calculation and data science.''
+  \url{https://cocalc.com}, 2024.
+\newblock Accessed: 2024-12-01.
+
+\end{thebibliography}

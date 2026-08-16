@@ -1,0 +1,50 @@
+\begin{thebibliography}{10}
+
+\bibitem{statista2024ecommerce}
+{Statista Research Department}, ``E-commerce in thailand - statistics \&
+  facts,'' 2024.
+
+\bibitem{roumeliotis2025think}
+K.~I. Roumeliotis {\em et~al.}, ``Think before you classify: The rise of
+  reasoning {LLMs} for consumer complaint classification,'' {\em arXiv
+  preprint}, 2025.
+
+\bibitem{sriphon2025}
+T.~Sriphon {\em et~al.}, ``Evaluating the impact of model scale and prompting
+  strategies on corruption allegation classification using {Thai}-specialized
+  {Typhoon2} language models,'' {\em arXiv preprint}, 2025.
+
+\bibitem{phatthiyaphaibun2023pythainlp}
+W.~Phatthiyaphaibun, K.~Chaovavanich, C.~Polpanumas, A.~Suriyawongkul,
+  L.~Lowphansirikul, P.~Chormai, P.~Limkonchotiwat, T.~Suntorntip, and
+  C.~Udomcharoenchaikit, ``Pythainlp: Thai natural language processing in
+  python,'' in {\em Proceedings of the 3rd Workshop for Natural Language
+  Processing Open Source Software (NLP-OSS 2023)}, pp.~25--36, 2023.
+
+\bibitem{lowphansirikul2021wangchanberta}
+L.~Lowphansirikul, C.~Polpanumas, N.~Jantrakulchai, and S.~Nutanong,
+  ``Wangchanberta: Pretraining transformer-based thai language models,'' {\em
+  arXiv preprint arXiv:2101.09635}, 2021.
+
+\bibitem{vajjala2024}
+S.~Vajjala and S.~Shimangaud, ``Text classification in the {LLM} era: Where do
+  we stand?,'' {\em arXiv preprint arXiv:2405.01240}, 2024.
+
+\bibitem{wang2023adaptable}
+G.~Wang {\em et~al.}, ``Adaptable and reliable text classification using large
+  language models,'' {\em arXiv preprint}, 2023.
+
+\bibitem{roumeliotis2025deepseek}
+K.~I. Roumeliotis {\em et~al.}, ``{DeepSeek} and {GPT} fall behind: {Claude}
+  leads in zero-shot consumer complaints classification,'' {\em arXiv
+  preprint}, 2025.
+
+\bibitem{xia2024ensembling}
+Y.~Xia {\em et~al.}, ``Ensembling prompting strategies for zero-shot
+  hierarchical text classification with {LLMs},'' {\em arXiv preprint}, 2024.
+
+\bibitem{wang2023zeroshot}
+Z.~Wang {\em et~al.}, ``Large language models are zero-shot text classifiers,''
+  {\em arXiv preprint arXiv:2312.01044}, 2023.
+
+\end{thebibliography}
